@@ -1,5 +1,6 @@
 import React, { useEffect } from 'react'
 import axios from 'axios';
+import SearchEditPage from './searchPage';
 const App = () => {
 
     axios.get('http://localhost:8081/users')
@@ -12,7 +13,7 @@ const App = () => {
 
   return (
     <div>
-
+      <SearchEditPage/>
     </div>
   )
 }
