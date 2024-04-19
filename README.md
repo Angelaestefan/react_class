@@ -26,11 +26,11 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Angelaestefan/react_class.git
 2. Navigate to the project directory:
 
     ```bash
-   cd user-search-update-project
+   cd project-directory
 
 3. Install dependencies for the frontend and backend:
 
